@@ -20,8 +20,22 @@ your machine.
 
 ## Download
 
-Downloads appear on the [Releases page](https://github.com/rlyno/open-pdf-desktop/releases) for
-macOS, Windows and Linux. The first release is coming soon.
+| System | File |
+| --- | --- |
+| **Windows** 10/11 (64-bit) | [OpenPDF-Windows-x64-Setup.exe](https://github.com/rlyno/open-pdf-desktop/releases/latest/download/OpenPDF-Windows-x64-Setup.exe) · [MSI](https://github.com/rlyno/open-pdf-desktop/releases/latest/download/OpenPDF-Windows-x64.msi) |
+| **Windows on ARM** | [OpenPDF-Windows-ARM64-Setup.exe](https://github.com/rlyno/open-pdf-desktop/releases/latest/download/OpenPDF-Windows-ARM64-Setup.exe) |
+| **macOS** 11 or later (Apple silicon and Intel) | [OpenPDF-macOS.dmg](https://github.com/rlyno/open-pdf-desktop/releases/latest/download/OpenPDF-macOS.dmg) |
+
+Older versions are on the [Releases page](https://github.com/rlyno/open-pdf-desktop/releases).
+A Linux version will follow.
+
+The app isn't signed with a paid developer certificate yet, so your system warns you the first time:
+
+- **Windows:** if SmartScreen says "Windows protected your PC", click **More info → Run anyway**.
+- **macOS:** drag Open PDF into Applications and open it. When macOS refuses, go to
+  **System Settings → Privacy & Security** and click **Open Anyway**.
+
+Then right-click any PDF and choose **Open with → Open PDF**.
 
 ## What you can do
 
