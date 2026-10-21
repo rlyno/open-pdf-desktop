@@ -1,0 +1,39 @@
+Open PDF Freeware License
+
+Copyright (C) 2026 Epafraditus Memoriano (RLYNO). All rights reserved.
+
+This license covers the Open PDF apps (Open PDF for Android/iOS and Open PDF
+Desktop), including their installers and any updates ("the Software").
+
+1. Free use. You may download, install and use the Software free of charge,
+   for personal or commercial work, on as many devices as you like.
+
+2. Sharing. You may share copies of the official, unmodified installers, as
+   long as you do it free of charge and keep this license with them. Please
+   link to the official download pages rather than re-hosting them:
+     https://github.com/rlyno/open-pdf-mobile/releases
+     https://github.com/rlyno/open-pdf-desktop/releases
+
+3. You may not:
+   a. sell, rent or sublicense the Software, or bundle it with something you sell;
+   b. modify, decompile, disassemble or reverse engineer the Software, except
+      where the law allows it regardless of this restriction;
+   c. remove or change copyright notices, the app's name or its branding;
+   d. publish the Software, or a modified version, under your own name.
+
+4. Your files. The Software processes documents on your device. It does not
+   upload your files or collect data about them. Documents you create with it
+   are yours.
+
+5. Third-party components. The Software includes open-source components that
+   stay under their own licenses (see THIRD_PARTY_NOTICES.md). Nothing in this
+   license limits your rights under those licenses.
+
+6. No warranty. The Software is provided "as is", without warranty of any
+   kind. In no event shall the author be liable for any claim, damages or
+   other liability arising from the use of the Software. Keep a copy of
+   important documents before processing them.
+
+7. Earlier versions. Open PDF 1.0.0 for Android was published under the GNU
+   General Public License v3.0. Copies of that version keep that license. All
+   later versions are under this license.
